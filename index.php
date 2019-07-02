@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
 <!--
-
-First Website
-and comment
-in html
-(comments can span multiple lines)
-
+Anthony Davis
+CST336
+HW1
+July 2, 2019
 -->
 
 <!-- This is the head -->
@@ -28,9 +26,14 @@ in html
 		<!-- Thematic change in content -->
 		<hr /> 
         <nav>
-			<b><a href="index.php">nav1</a></b>
-			<a href="about.php">nav2</a>
-			<a href="contact.php">nav3</a>
+			<ul>
+				<a href="index.php"><li>nav1</li></a>
+				<a href="about.php"><li>nav2</li></a>
+				<a href="contact.php"><li>nav3</li></a>
+				<a href="index.php"><li>nav4</li></a>
+				<a href="about.php"><li>nav5</li></a>
+				<a href="contact.php"><li>nav6</li></a>
+			</ul>
 		</nav>
 		
 		<br /><br />
@@ -38,7 +41,8 @@ in html
 		<main>
 			
 			<div>
-				Main<br />
+				Main<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 			</div>
 			
 		</main>
@@ -47,7 +51,11 @@ in html
         <!-- The footer goes inside the body but not always -->
         <footer>
 			<hr>
-				Footer<br />
+				CST336 Internet Programming. 2019&copy; Davis <br />
+				<strong>Disclaimer:</strong> The information in this webpage is fictitious.
+				 It is used for academic purposes only. <br />
+
+				<img src="img/csumb_logo.png" alt="CSU Monterey Bay logo" />
         </footer>
         <!-- closing footer -->
         

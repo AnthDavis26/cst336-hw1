@@ -1,4 +1,67 @@
+/* General */
 body {
-	background-color:#5e3511;
+	background-color:#263852;
 	color:white; /* Text color */
+}
+
+/* Links */
+a { 
+	color:white;
+}
+
+
+
+/* Navigation Bar */
+nav {
+  float:left;
+  position:fixed;
+}
+
+	nav ul {
+	  list-style-type: none;
+	  padding: 0;
+	}
+
+		nav li {
+			background-color:#152741;
+			text-align:center;
+			font-size:2em;
+			display: block;
+			padding: 25px;
+			list-style-position:inside;
+			border: 1px solid black;
+		}
+
+		nav li:hover {
+			background-color:#374963;
+		}
+
+		nav a {
+			text-decoration: none;
+		}
+
+
+
+
+/* Header */
+header {
+	text-align: center;
+	font-family: "Arial";
+}
+
+/* Main */
+main {
+	display: flex; /* Flexbox layout */
+	justify-content: center;
+}
+
+/* Footer */
+footer {
+	position: fixed;
+	width:100%;
+	bottom: 0;
+	color:black;
+	font-family: "Verdana";
+	background-color:white;
+	text-align: center;
 }
