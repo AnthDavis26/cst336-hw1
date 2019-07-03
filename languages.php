@@ -16,7 +16,6 @@ July 2, 2019
     <body>
 		<header>
 			<h1><b>Game Software Programming</b></h1>
-			<hr /> 
 		</header>
 		
 		<section>
@@ -34,11 +33,12 @@ July 2, 2019
 			<!-- Main content -->
 			<main>
 				<figure>
-					<img src="img/cpp_code_example.jpg"/>
+					<img src="img/cpp_code_example.jpg" alt="Example picture of C++ code"/>
 					<br/>
 					An example of C++ programming, taken from 
 					<a href="http://gamecodeschool.com/books/beginning-c-plus-plus-game-programming/">Game Code School</a>
 				</figure>
+				<br/>
 			
 				<article>
 					<div id="article_title">C/C++ LANGUAGE</div>

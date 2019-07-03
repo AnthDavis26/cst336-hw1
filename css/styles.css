@@ -4,6 +4,10 @@ body {
 	color: white;
 }
 
+p {
+	font-size: 1.25em;
+}
+
 /* Links */
 a { 
 	color:white;
@@ -25,9 +29,12 @@ figure {
 
 
 /* Center contents */
-header, footer {
+header {
 	text-align: center;
+	padding: 20px;
+	font-family: "Arial";
 }
+
 
 /* Main area */
 section {
@@ -39,9 +46,10 @@ section {
 	}
 
 /* Navigation bar */
-nav {
+nav, header {
 	background: #041630;
-	padding: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 	nav ul {
@@ -73,4 +81,5 @@ footer {
 	width: 100%;
 	padding: 10px;
 	color: black;
+	text-align: center;
 }

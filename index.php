@@ -16,7 +16,6 @@ July 2, 2019
     <body>
 		<header>
 			<h1><b>Game Software Programming</b></h1>
-			<hr /> 
 		</header>
 		
 		<section>
@@ -33,7 +32,19 @@ July 2, 2019
 			
 			<!-- Main content -->
 			<main>
-				<p>Test</p>
+				<figure>
+					<img src="img/pac-man.png" alt="Screenshot from Pac-Man"/>
+					<br/>
+					It's pretty unlikely that you haven't seen this screenshot of Pac-Man. Taken from  
+					<a href="http://www.pixelatedarcade.com/screenshots/26647">PixelatedArcade</a>
+				</figure>
+				<br/>
+				
+				<p>In this website, you will find basic information about common information pertaining to game<br/>
+				   development and design resources. Click any link on the left navigation bar to select a topic of<br/>
+				   interest.<br/><br/>
+				   I would like to emphasize that the information is basic, and there are far more nuanced answers<br/>
+				   with more thorough information in the resources provided.</p>
 			</main>
 		</section>
 		

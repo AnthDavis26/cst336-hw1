@@ -16,7 +16,6 @@ July 2, 2019
     <body>
 		<header>
 			<h1><b>Game Software Programming</b></h1>
-			<hr /> 
 		</header>
 		
 		<section>
