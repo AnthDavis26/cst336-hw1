@@ -9,7 +9,7 @@ July 2, 2019
 
     <head>
 		<meta charset="utf-8" />
-		<title>Game Software Programming - Home</title>
+		<title>Game Software Programming - Commercial Engines</title>
 		<link href="css/styles.css" rel="stylesheet" type="text/css" />
     </head>
 
@@ -23,9 +23,9 @@ July 2, 2019
 			<!-- Navigation Bar -->
 			<nav>
 				<ul>
-					<li><a href="index.php"><b>Home</b></a></li>
+					<li><a href="index.php">Home</a></li>
 					<li><a href="languages.php">Programming<br />Languages</a></li>
-					<li><a href="engines.php">Commercial<br />Engines</a></li>
+					<li><a href="engines.php"><b>Commercial<br />Engines</b></a></li>
 					<li><a href="design.php">Game Design</a></li>
 					<li><a href="resources.php">Resources</a></li>
 				</ul>

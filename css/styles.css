@@ -9,6 +9,10 @@ a {
 	color:white;
 }
 
+a:hover{
+	color: #aac5f0;
+}
+
 /* Center contents */
 header, footer {
 	text-align: center;
