@@ -18,6 +18,11 @@ a:hover {
 	font-weight: bold;
 }
 
+figure {
+	text-align: center;
+	font-style: italic;
+}
+
 
 /* Center contents */
 header, footer {

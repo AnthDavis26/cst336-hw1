@@ -40,9 +40,6 @@ July 2, 2019
         <footer>
 			<hr>
 				CST336 Internet Programming. 2019&copy; Davis <br />
-				<strong>Disclaimer:</strong> The information in this webpage is fictitious.
-				 It is used for academic purposes only. <br />
-
 				<a href="https://csumb.edu/"><img src="img/csumb_logo.png" alt="CSU Monterey Bay logo" /></a>
         </footer>
         <!-- closing footer -->

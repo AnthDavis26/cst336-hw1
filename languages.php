@@ -33,6 +33,12 @@ July 2, 2019
 			
 			<!-- Main content -->
 			<main>
+				<figure>
+					<img src="img/cpp_code_example.jpg"/>
+					<br/>
+					An example of C++ programming, taken from 
+					<a href="http://gamecodeschool.com/books/beginning-c-plus-plus-game-programming/">Game Code School</a>
+				</figure>
 			
 				<article>
 					<div id="article_title">C/C++ LANGUAGE</div>
@@ -42,7 +48,7 @@ July 2, 2019
 					   <a href="https://docs.unrealengine.com/en-US/Programming/Introduction/index.html">Unreal Engine.</a></p>
 				</article>
 				<br />
-				<hr>
+				<hr />
 				
 				<article>
 					<div id="article_title">ASSEMBLY</div>
@@ -56,7 +62,7 @@ July 2, 2019
 					   can be.</p>
 				</article>
 				<br />
-				<hr>
+				<hr />
 			
 				<article>
 					<div id="article_title">JAVA</div>
@@ -72,7 +78,8 @@ July 2, 2019
 					   multiplayer).</p>
 				</article>
 				<br />
-				<hr>
+				<hr />
+				
 				
 			</main>
 		</section>
@@ -80,9 +87,6 @@ July 2, 2019
         <footer>
 			<hr>
 				CST336 Internet Programming. 2019&copy; Davis <br />
-				<strong>Disclaimer:</strong> The information in this webpage is fictitious.
-				 It is used for academic purposes only. <br />
-
 				<a href="https://csumb.edu/"><img src="img/csumb_logo.png" alt="CSU Monterey Bay logo" /></a>
         </footer>
         <!-- closing footer -->
