@@ -42,7 +42,7 @@ July 2, 2019
 				
 				<p>In this website, you will find basic information about common information pertaining to game<br/>
 				   development and design resources. Click any link on the left navigation bar to select a topic of<br/>
-				   interest.<br/><br/>
+				   interest. Note that all game engines described here are free or have free versions.<br/><br/>
 				   I would like to emphasize that the information is basic, and there are far more nuanced answers<br/>
 				   with more thorough information in the resources provided.</p>
 			</main>

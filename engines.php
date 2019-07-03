@@ -32,7 +32,46 @@ July 2, 2019
 			
 			<!-- Main content -->
 			<main>
-				<p>Test</p>
+				<figure>
+					<img src="img/unreal_logo.png" alt="Unreal Engine logo"/>
+					<br/>
+					Unreal Engine, one of the video game industry standard engines. Taken from the 
+					<a href="https://www.unrealengine.com/en-US/">Unreal Engine website</a>
+				</figure>
+				<br/>
+			
+				<article>
+					<div id="article_title">UNREAL ENGINE</div>
+					<p>With advanced physics, visuals, and a streamlined Blueprints feature as of Unreal Engine 4,<br/>
+					   it is no surprise that Unreal Engine is often used for high-presentation video games. Behind<br/>
+					   the scenes, Epic Games' Unreal Engine utilizes  
+					   <a href="https://docs.unrealengine.com/en-US/Programming/Introduction/index.html">C++.</a></p>
+				</article>
+				<br />
+				<hr />
+				
+				<article>
+					<div id="article_title">UNITY</div>
+					<p>Unlike the languages described on this site, Unity relies on C#. Adapting to C# is fairly <br />
+					   simple for Java and C++ developers. Unity provides fantastic results for game projects and <br />
+					   is arguably easier to use than Unreal. The features are somewhat limited compared to Unreal, <br />
+					   but add-ons can be installed from the Unity store.</p>
+				</article>
+				<br />
+				<hr />
+			
+				<article>
+					<div id="article_title">GameMaker Studio</div>
+					<p>Those who are not inclined to program may find Game Maker to their liking. Its features are <br />
+					   not as deep and thorough as those in Unreal and Unity, but it is very simple to use for smaller<br /> 
+					   projects.<br /><br />
+					   Although GameMaker has a free version, this version is even more restricted.</p>
+				</article>
+				<br />
+				<hr />
+				
+				You can find more engines <a href="https://www.gamedesigning.org/career/video-game-engines/">here</a>.<br/><br/><br/>
+				
 			</main>
 		</section>
 		
