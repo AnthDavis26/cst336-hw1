@@ -40,7 +40,7 @@ July 2, 2019
 							<li><a href="http://gameaccessibilityguidelines.com/">Game Accessibility Guidelines</a></li>
 							<li><a href="http://www.hobbygamedev.com/digests/">HobbyGameDev (notes and interviews)</a></li>
 							<li><a href="https://tensquaregames.com/2018/01/books-you-should-read-if-you-want-to-become-a-game-designer/">
-							Other books<br/><img src="img/design.jpg" /></a></li>
+							Other books<br/><img src="img/design.jpg" alt="Game design graphic, from tensquaregames.com"/></a></li>
 						</ul>
 				</article>
 				<br />
