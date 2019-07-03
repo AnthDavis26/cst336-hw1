@@ -22,6 +22,16 @@ a:hover {
 	font-weight: bold;
 }
 
+#article_title2 {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+#article_title3 {
+	font-size: 2em;
+	font-weight: bold;
+}
+
 article {
 	padding: 10px;
 }

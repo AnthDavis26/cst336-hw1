@@ -41,7 +41,7 @@ July 2, 2019
 				<br/>
 			
 				<article>
-					<div id="article_title">C/C++ LANGUAGE</div>
+					<div id="article_title2">C/C++ LANGUAGE</div>
 					<p>Generally speaking, modern-day games are programmed on the back of C++, basically the 
 					   evolution of the C language. With the extensive support of software that utilize the speed 
 					   of C++, it is the backbone of major game engines such as 
@@ -51,7 +51,7 @@ July 2, 2019
 				<hr />
 				
 				<article>
-					<div id="article_title">ASSEMBLY</div>
+					<div id="article_title3">ASSEMBLY</div>
 					<p>Prior to C++ becoming standard for game programming, assembly language was used due to
 					   limited hardware capabilities on home consoles. While assembly languages (which vary 
 					   depending on the processor used) are a step closer to machine language, they can grow 

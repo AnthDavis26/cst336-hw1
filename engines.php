@@ -51,7 +51,7 @@ July 2, 2019
 				<hr />
 				
 				<article>
-					<div id="article_title">UNITY</div>
+					<div id="article_title2">UNITY</div>
 					<p>Unlike the languages described on this site, Unity relies on C#. Adapting to C# is fairly 
 					   simple for Java and C++ developers. Unity provides fantastic results for game projects and 
 					   is arguably easier to use than Unreal. The features are somewhat limited compared to Unreal, 
@@ -61,7 +61,7 @@ July 2, 2019
 				<hr />
 			
 				<article>
-					<div id="article_title">GameMaker Studio</div>
+					<div id="article_title3">GameMaker Studio</div>
 					<p>Those who are not inclined to program may find Game Maker to their liking. Its features are 
 					   not as deep and thorough as those in Unreal and Unity, but it is very simple to use for smaller  
 					   projects.<br /><br />
