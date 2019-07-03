@@ -9,9 +9,15 @@ a {
 	color:white;
 }
 
-a:hover{
+a:hover {
 	color: #aac5f0;
 }
+
+#article_title {
+	font-size: 2em;
+	font-weight: bold;
+}
+
 
 /* Center contents */
 header, footer {
@@ -22,20 +28,20 @@ header, footer {
 section {
   display: flex;
 }
-	main p {
+	main {
 		padding-left: 25px;
 		padding-right: 25px;
 	}
 
 /* Navigation bar */
 nav {
-  background: #041630;
-  padding: 20px;
+	background: #041630;
+	padding: 20px;
 }
 
 	nav ul {
-	  list-style-type: none;
-	  padding: 0;
+		list-style-type: none;
+		padding: 0;
 	}
 	
 		nav li {
@@ -58,8 +64,8 @@ nav {
 
 /* Footer */
 footer {
-  background-color: white;
-  width: 100%;
-  padding: 10px;
-  color: black;
+	background-color: white;
+	width: 100%;
+	padding: 10px;
+	color: black;
 }
