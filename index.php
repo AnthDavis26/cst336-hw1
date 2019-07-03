@@ -35,7 +35,7 @@ July 2, 2019
 				<figure>
 					<img src="img/pac-man.png" alt="Screenshot from Pac-Man"/>
 					<br/>
-					It's pretty unlikely that you haven't seen Pac-Man before. Taken from  
+					It's pretty unlikely that you haven't seen Pac-Man before. This game was programmed in Assembly years ago. Taken from  
 					<a href="http://www.pixelatedarcade.com/screenshots/26647">PixelatedArcade</a>
 				</figure>
 				<br/>
