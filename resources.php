@@ -18,7 +18,9 @@ July 2, 2019
 			<h1><b>Game Software Programming</b></h1>
 		</header>
 		
-		<section>
+		<!-- Main content -->
+		<main>
+			<section>
 			<!-- Navigation Bar -->
 			<nav>
 				<ul>
@@ -30,11 +32,46 @@ July 2, 2019
 				</ul>
 			</nav>
 			
-			<!-- Main content -->
-			<main>
-				<p>Test</p>
-			</main>
-		</section>
+			
+				<article>
+					Game Design<br/>
+						<ul>
+							<li><a href="https://www.amazon.com/Art-Game-Design-Lenses-Second/dp/1466598646/">The Art of Game Design, by Jesse Schell</a></li>
+							<li><a href="http://gameaccessibilityguidelines.com/">Game Accessibility Guidelines</a></li>
+							<li><a href="http://www.hobbygamedev.com/digests/">HobbyGameDev (notes and interviews)</a></li>
+							<li><a href="https://tensquaregames.com/2018/01/books-you-should-read-if-you-want-to-become-a-game-designer/">
+							Other books<br/><img src="img/design.jpg" /></a></li>
+						</ul>
+				</article>
+				<br />
+				<hr />
+				
+				<article>
+					Game Engines<br/>
+						<ul>
+							<li><a href="https://www.amazon.com/Art-Game-Design-Lenses-Second/dp/1466598646/">The Art of Game Design, by Jesse Schell</a></li>
+							<li><a href="http://gameaccessibilityguidelines.com/">Game Accessibility Guidelines</a></li>
+							<li><a href="http://www.hobbygamedev.com/digests/">HobbyGameDev (notes and interviews)</a></li>
+						</ul>
+				</article>
+				<br />
+				<hr />
+				
+				
+				<article>
+					Game Programming Languages<br/>
+						<ul>
+							<li><a href="https://www.amazon.com/Art-Game-Design-Lenses-Second/dp/1466598646/">The Art of Game Design, by Jesse Schell</a></li>
+							<li><a href="http://gameaccessibilityguidelines.com/">Game Accessibility Guidelines</a></li>
+							<li><a href="http://www.hobbygamedev.com/digests/">HobbyGameDev (notes and interviews)</a></li>
+						</ul>
+				</article>
+				<br />
+				<hr />
+				
+				
+			</section>
+		</main>
 		
         <footer>
 			<hr>

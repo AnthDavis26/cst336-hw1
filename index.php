@@ -18,7 +18,10 @@ July 2, 2019
 			<h1><b>Game Software Programming</b></h1>
 		</header>
 		
-		<section>
+		<!-- Main content -->
+		<main>
+			<section>
+			
 			<!-- Navigation Bar -->
 			<nav>
 				<ul>
@@ -30,8 +33,6 @@ July 2, 2019
 				</ul>
 			</nav>
 			
-			<!-- Main content -->
-			<main>
 				<figure>
 					<img src="img/pac-man.png" alt="Screenshot from Pac-Man"/>
 					<br/>
@@ -45,8 +46,8 @@ July 2, 2019
 				   interest. Note that all game engines described here are free or have free versions.<br/><br/>
 				   I would like to emphasize that the information is basic, and there are far more nuanced answers<br/>
 				   with more thorough information in the resources provided.</p>
-			</main>
-		</section>
+			</section>
+		</main>
 		
         <footer>
 			<hr>

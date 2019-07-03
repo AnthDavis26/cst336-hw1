@@ -18,7 +18,9 @@ July 2, 2019
 			<h1><b>Game Software Programming</b></h1>
 		</header>
 		
-		<section>
+		<!-- Main content -->
+		<main>
+			<section>
 			<!-- Navigation Bar -->
 			<nav>
 				<ul>
@@ -30,8 +32,6 @@ July 2, 2019
 				</ul>
 			</nav>
 			
-			<!-- Main content -->
-			<main>
 				<figure>
 					<img src="img/cpp_code_example.jpg" alt="Example picture of C++ code"/>
 					<br/>
@@ -42,8 +42,8 @@ July 2, 2019
 			
 				<article>
 					<div id="article_title">C/C++ LANGUAGE</div>
-					<p>Generally speaking, modern-day games are programmed on the back of C++, basically the  <br/>
-					   evolution of the C language. With the extensive support of software that utilize the speed<br/> 
+					<p>Generally speaking, modern-day games are programmed on the back of C++, basically the 
+					   evolution of the C language. With the extensive support of software that utilize the speed 
 					   of C++, it is the backbone of major game engines such as 
 					   <a href="https://docs.unrealengine.com/en-US/Programming/Introduction/index.html">Unreal Engine.</a></p>
 				</article>
@@ -52,37 +52,34 @@ July 2, 2019
 				
 				<article>
 					<div id="article_title">ASSEMBLY</div>
-					<p>Prior to C++ becoming standard for game programming, assembly language was used due to <br/>
-					   limited hardware capabilities on home consoles. While assembly languages (which vary   <br/>
-					   depending on the processor used) are a step closer to machine language, they can grow<br/>
-					   complicated for large projects. Hardware is faster and more capable now, leaving assembly<br/> 
+					<p>Prior to C++ becoming standard for game programming, assembly language was used due to
+					   limited hardware capabilities on home consoles. While assembly languages (which vary 
+					   depending on the processor used) are a step closer to machine language, they can grow 
+					   complicated for large projects. Hardware is faster and more capable now, leaving assembly 
 					   language more useful for less-capable hardware or occasional inline programming in C.<br/><br/>
 					   Games like <a href="http://www.chrissawyergames.com/faq3.htm">RollerCoaster Tycoon</a> are a 
-					   testament to just how optimized assembly scripts<br/>
-					   can be.</p>
+					   testament to just how optimized assembly scripts can be.</p>
 				</article>
 				<br />
 				<hr />
 			
 				<article>
 					<div id="article_title">JAVA</div>
-					<p>Unlike C/C++ and assembly language, Java focuses on clear programming and compatibility <br/>
-					   with as many hardware devices and operating systems as possible. Due to the implementation<br/>
-					   of Java's Virtual Machine, along with behind-the-scenes management of unneeded memory, it <br/>
-					   does not necessarily work fast enough for large-scale games. Possibly the most well-known <br/>
+					<p>Unlike C/C++ and assembly language, Java focuses on clear programming and compatibility 
+					   with as many hardware devices and operating systems as possible. Due to the implementation 
+					   of Java's Virtual Machine, along with behind-the-scenes management of unneeded memory, it 
+					   does not necessarily work fast enough for large-scale games.<br/><br/>Possibly the most well-known 
 					   game to be developed with Java is <a href="https://www.minecraft.net/en-us/">Minecraft</a> 
-					    (although it has since been branched and ported<br/>
-					   to C++ for 
+					   (although it has since been branched and ported to C++ for 
 					   <a href="https://www.microsoft.com/en-us/p/minecraft-for-windows-10/9nblggh2jhxj?activetab=pivot%3Aoverviewtab">Microsoft platforms</a> 
-					   to increase performance while maintaining cross-platform online<br/>
-					   multiplayer).</p>
+					   to increase performance while maintaining cross-platform online multiplayer).</p>
 				</article>
 				<br />
 				<hr />
 				
+			</section>
 				
-			</main>
-		</section>
+		</main>
 		
         <footer>
 			<hr>

@@ -22,6 +22,10 @@ a:hover {
 	font-weight: bold;
 }
 
+article {
+	padding: 10px;
+}
+
 figure {
 	text-align: center;
 	font-style: italic;
@@ -40,10 +44,6 @@ header {
 section {
   display: flex;
 }
-	main {
-		padding-left: 25px;
-		padding-right: 25px;
-	}
 
 /* Navigation bar */
 nav, header {

@@ -18,7 +18,9 @@ July 2, 2019
 			<h1><b>Game Software Programming</b></h1>
 		</header>
 		
-		<section>
+		<!-- Main content -->
+		<main>
+			<section>
 			<!-- Navigation Bar -->
 			<nav>
 				<ul>
@@ -30,8 +32,7 @@ July 2, 2019
 				</ul>
 			</nav>
 			
-			<!-- Main content -->
-			<main>
+
 				<article>
 					<p>As you've probably figured, there's far more to game development than simply<br/>
 					   writing code ("simply" depending on your point of view). Any game project,<br/>
@@ -48,9 +49,8 @@ July 2, 2019
 					   
 				</article>
 				<br />
-				<hr />
-			</main>
-		</section>
+			</section>
+		</main>
 		
         <footer>
 			<hr>

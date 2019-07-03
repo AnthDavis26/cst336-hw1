@@ -18,7 +18,9 @@ July 2, 2019
 			<h1><b>Game Software Programming</b></h1>
 		</header>
 		
-		<section>
+		<!-- Main content -->
+		<main>
+			<section>
 			<!-- Navigation Bar -->
 			<nav>
 				<ul>
@@ -30,8 +32,6 @@ July 2, 2019
 				</ul>
 			</nav>
 			
-			<!-- Main content -->
-			<main>
 				<figure>
 					<img src="img/unreal_logo.png" alt="Unreal Engine logo"/>
 					<br/>
@@ -42,8 +42,8 @@ July 2, 2019
 			
 				<article>
 					<div id="article_title">UNREAL ENGINE</div>
-					<p>With advanced physics, visuals, and a streamlined Blueprints feature as of Unreal Engine 4,<br/>
-					   it is no surprise that Unreal Engine is often used for high-presentation video games. Behind<br/>
+					<p>With advanced physics, visuals, and a streamlined Blueprints feature as of Unreal Engine 4, 
+					   it is no surprise that Unreal Engine is often used for high-presentation video games. Behind 
 					   the scenes, Epic Games' Unreal Engine utilizes  
 					   <a href="https://docs.unrealengine.com/en-US/Programming/Introduction/index.html">C++.</a></p>
 				</article>
@@ -52,9 +52,9 @@ July 2, 2019
 				
 				<article>
 					<div id="article_title">UNITY</div>
-					<p>Unlike the languages described on this site, Unity relies on C#. Adapting to C# is fairly <br />
-					   simple for Java and C++ developers. Unity provides fantastic results for game projects and <br />
-					   is arguably easier to use than Unreal. The features are somewhat limited compared to Unreal, <br />
+					<p>Unlike the languages described on this site, Unity relies on C#. Adapting to C# is fairly 
+					   simple for Java and C++ developers. Unity provides fantastic results for game projects and 
+					   is arguably easier to use than Unreal. The features are somewhat limited compared to Unreal, 
 					   but add-ons can be installed from the Unity store.</p>
 				</article>
 				<br />
@@ -62,18 +62,18 @@ July 2, 2019
 			
 				<article>
 					<div id="article_title">GameMaker Studio</div>
-					<p>Those who are not inclined to program may find Game Maker to their liking. Its features are <br />
-					   not as deep and thorough as those in Unreal and Unity, but it is very simple to use for smaller<br /> 
+					<p>Those who are not inclined to program may find Game Maker to their liking. Its features are 
+					   not as deep and thorough as those in Unreal and Unity, but it is very simple to use for smaller  
 					   projects.<br /><br />
-					   Although GameMaker has a free version, this version is even more restricted.</p>
+					   Although GameMaker has a free version, this version is even more restricted.</p><br/><br/>
+					You can find more engines <a href="https://www.gamedesigning.org/career/video-game-engines/">here</a>.
 				</article>
 				<br />
 				<hr />
 				
-				You can find more engines <a href="https://www.gamedesigning.org/career/video-game-engines/">here</a>.<br/><br/><br/>
 				
-			</main>
-		</section>
+			</section>
+		</main>
 		
         <footer>
 			<hr>
